@@ -125,9 +125,9 @@ exports.proxyip = false;
  */
 exports.ofemain = false;
 exports.ofesockets = false;
-exports.debugsimprocesses = true;
-exports.debugvalidatorprocesses = true;
-exports.debugdexsearchprocesses = true;
+exports.debugsimprocesses = false;
+exports.debugvalidatorprocesses = false;
+exports.debugdexsearchprocesses = false;
 
 /**
  * Pokemon of the Day - put a pokemon's name here to make it Pokemon of the Day
